@@ -1,0 +1,11 @@
+# Dependências
+node_modules
+
+# Saídas geradas e dados de cliente — nunca versionar
+saida/
+*.pdf
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
