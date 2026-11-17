@@ -38,6 +38,14 @@ node test/run.cjs
 
 Saídas em `saida/`: `<cliente>-diagnostico.json`, `.md` e `.html` (abre offline, imprime).
 
+## Exemplo de saída
+
+![Relatório de diagnóstico com achados priorizados](docs/relatorio.jpg)
+
+Relatório gerado a partir de uma amostra fictícia de 30 faturas da Copel: cada achado traz
+categoria, severidade, confiança, valor estimado e a evidência que o sustenta. O HTML abre
+offline e foi feito para impressão.
+
 ## Fluxo completo: PDF → diagnóstico
 
 ```bash

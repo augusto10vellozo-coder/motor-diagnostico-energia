@@ -1,8 +1,8 @@
-﻿{
+{
   "name": "motor-diagnostico-energia",
   "version": "0.2.0",
   "private": true,
-  "description": "Motor de diagnÃ³stico de faturas de energia: regras plugÃ¡veis, entrada normalizada e relatÃ³rio pronto para o cliente.",
+  "description": "Motor de diagnóstico de faturas de energia: regras plugáveis, entrada normalizada e relatório pronto para o cliente.",
   "main": "src/engine.cjs",
   "bin": {
     "diagnostico-energia": "cli.cjs"
