@@ -1,5 +1,7 @@
 # Motor de Diagnóstico de Energia
 
+[![CI](https://github.com/augusto10vellozo-coder/motor-diagnostico-energia/actions/workflows/ci.yml/badge.svg)](https://github.com/augusto10vellozo-coder/motor-diagnostico-energia/actions/workflows/ci.yml)
+
 Motor de regras independente do painel. Recebe faturas normalizadas e devolve **achados priorizados, com evidência e confiança** — não só um dashboard.
 
 Ele existe para virar produto: o mesmo motor roda para uma agroindústria, para um cliente novo ou para uma consultoria parceira. Nenhum caminho, nome de UC ou layout está embutido.
